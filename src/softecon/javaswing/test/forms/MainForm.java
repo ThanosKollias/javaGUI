@@ -154,9 +154,7 @@ public class MainForm extends javax.swing.JFrame {
         setFont(new java.awt.Font("Copperplate Gothic Bold", 0, 10)); // NOI18N
         setMinimumSize(new java.awt.Dimension(770, 450));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/softecon/javaswing/test/icons/cropped-softecon-website-logo.png"))); // NOI18N
-
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/softecon/javaswing/test/icons/Gold-Partner-oracle.png"))); // NOI18N
+        
 
         cb_GUIs.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         cb_GUIs.addActionListener(new java.awt.event.ActionListener() {
